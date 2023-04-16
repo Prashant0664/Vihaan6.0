@@ -1,8 +1,8 @@
 # Vihaan6.0
 
-How to make changes:
-Folk/Clone the Repo
-Make the changes
-creste the branch with proper name
-add description to commit before pull request
-and repeat
+How to make changes: <br/>
+Folk/Clone the Repo <br/>
+Make the changes <br/>
+creste the branch with proper name <br/>
+add description to commit before pull request <br/>
+and repeat <br/>
